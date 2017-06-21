@@ -5,6 +5,6 @@
 <title>Planets of the universe</title>
 </head>
 <body>
-<h1>Planets of the universe</h1>
+<h1>Planets of the universe.</h1>
 </body>
 </html>
